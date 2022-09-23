@@ -13,3 +13,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+div{
+  margin-left: 30px;
+}
+
+h1, h2{
+  color: rgb(56, 12, 98);
+}
+
